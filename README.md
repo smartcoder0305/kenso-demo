@@ -71,6 +71,14 @@ client/                  # React demo site + language switcher
 wordpress-plugin/        # WP bridge plugin stub
 ```
 
+## Deploy (Vercel)
+
+1. Push this repo to GitHub and import it in [Vercel](https://vercel.com).
+2. Set Environment Variables (Production): `AI_API_KEY`, `AI_API_ENDPOINT`, `AI_API_MODEL`, `AI_API_TIMEOUT`.
+3. Deploy. Static UI = Vite `dist/`; API = serverless `api/index.ts` (Express).
+
+Note: Vercel’s filesystem is read-only, so MT write/cache won’t persist — use pre-seeded `content/` files for the demo.
+
 ## Notes for the real proposal
 
 - Design work is out of scope (matches the inquiry); this UI is only a demo shell.
