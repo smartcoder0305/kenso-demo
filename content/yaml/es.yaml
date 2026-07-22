@@ -1,0 +1,27 @@
+brand: 建創 KENSŌ
+tagline: Construir el esqueleto de la ciudad.
+heroLead: >-
+  Como desarrollador que une la memoria urbana y el futuro, abordamos viviendas, oficinas y espacios
+  públicos de forma continua e integrada.
+ctaPrimary: Ver proyectos
+ctaSecondary: Sobre nosotros
+nav:
+  projects: Proyectos
+  about: Empresa
+  sustainability: Sostenibilidad
+  contact: Contacto
+sectionProjects:
+  title: Proyectos destacados
+  body: >-
+    Desde la regeneración del centro hasta complejos suburbanos. Leemos el contexto del terreno y
+    diseñamos espacios que perduran.
+sectionAbout:
+  title: Quiénes somos
+  body: >-
+    Desde la fundación, construcción y planificación avanzan como un solo equipo. Equilibramos el
+    conocimiento de obra con la visión urbana para ciudades sostenibles.
+sectionContact:
+  title: Consultas y materiales
+  body: Para inmuebles, colaboraciones o medios, contáctenos a través del formulario.
+  button: Ir al formulario
+footer: © 建創 KENSŌ Development Co., Ltd.

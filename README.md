@@ -11,7 +11,7 @@ Demo for the inquiry: **WEBサイトの多言語翻訳（機械翻訳）実装**
 | `hardcoded` | Legacy templates / inline strings | `server/hardcoded.ts` (+ MT cache) |
 | `wordpress` | WordPress site | Plugin stub + `/api/wp/v2/pages?lang=` |
 
-Locales: `ja` (source), `en`, `zh`, `ko`, `th`, `vi`.
+Locales: `ja` (source), `en`, `ru`, `zh`, `fr`, `es`.
 
 Machine translation uses **OpenAI Chat Completions** (`AI_API_ENDPOINT` / `AI_API_KEY` / `AI_API_MODEL`).
 

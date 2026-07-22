@@ -1,0 +1,27 @@
+brand: 建創 KENSŌ
+tagline: Façonner l’ossature de la ville.
+heroLead: >-
+  En tant que promoteur reliant la mémoire urbaine et l’avenir, nous concevons logements, bureaux et
+  espaces publics comme une pratique continue.
+ctaPrimary: Voir les projets
+ctaSecondary: À propos
+nav:
+  projects: Projets
+  about: Entreprise
+  sustainability: Durabilité
+  contact: Contact
+sectionProjects:
+  title: Projets phares
+  body: >-
+    De la reconversion du centre-ville aux complexes périurbains. Nous lisons le contexte du site et
+    concevons des lieux aimés durablement.
+sectionAbout:
+  title: Qui sommes-nous
+  body: >-
+    Depuis notre création, construction et planification avancent comme une seule équipe. Nous
+    allions savoir de chantier et vision urbaine pour des villes durables.
+sectionContact:
+  title: Demandes et documents
+  body: Pour les biens, partenariats ou médias, contactez-nous via le formulaire ci-dessous.
+  button: Aller au formulaire
+footer: © 建創 KENSŌ Development Co., Ltd.

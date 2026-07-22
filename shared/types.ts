@@ -1,13 +1,13 @@
-export const LOCALES = ["ja", "en", "zh", "ko", "th", "vi"] as const;
+export const LOCALES = ["ja", "en", "ru", "zh", "fr", "es"] as const;
 export type Locale = (typeof LOCALES)[number];
 
 export const LOCALE_LABELS: Record<Locale, string> = {
   ja: "日本語",
   en: "English",
+  ru: "Русский",
   zh: "中文",
-  ko: "한국어",
-  th: "ไทย",
-  vi: "Tiếng Việt",
+  fr: "Français",
+  es: "Español",
 };
 
 export type ContentMode = "json" | "yaml" | "hardcoded" | "wordpress";

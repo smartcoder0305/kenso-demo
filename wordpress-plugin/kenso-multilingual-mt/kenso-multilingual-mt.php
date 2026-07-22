@@ -40,7 +40,7 @@ add_action('rest_api_init', function () {
  * Front-end language switcher (theme can call this).
  * Full page content still comes from ACF / Gutenberg; this demo proxies MT copy.
  */
-function kenso_mt_language_switcher(array $locales = ['ja', 'en', 'zh', 'ko', 'th', 'vi']) {
+function kenso_mt_language_switcher(array $locales = ['ja', 'en', 'ru', 'zh', 'fr', 'es']) {
     $current = isset($_GET['lang']) ? sanitize_text_field(wp_unslash($_GET['lang'])) : 'ja';
     echo '<nav class="kenso-lang" aria-label="Language">';
     foreach ($locales as $locale) {
