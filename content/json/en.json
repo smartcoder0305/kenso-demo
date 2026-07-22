@@ -1,0 +1,27 @@
+{
+  "brand": "建創 KENSŌ",
+  "tagline": "Building the bones of the city.",
+  "heroLead": "As a developer connecting urban memory and the future, we deliver housing, offices, and public spaces as one continuous practice.",
+  "ctaPrimary": "View projects",
+  "ctaSecondary": "About us",
+  "nav": {
+    "projects": "Projects",
+    "about": "Company",
+    "sustainability": "Sustainability",
+    "contact": "Contact"
+  },
+  "sectionProjects": {
+    "title": "Featured projects",
+    "body": "From central redevelopment to suburban mixed-use. We read the land's context and design spaces people keep returning to."
+  },
+  "sectionAbout": {
+    "title": "About us",
+    "body": "Since founding, planning and construction have moved as one team. We balance site knowledge with urban strategy to build sustainable neighborhoods."
+  },
+  "sectionContact": {
+    "title": "Inquiries & materials",
+    "body": "For properties, partnerships, or media, reach us through the form below.",
+    "button": "Go to contact form"
+  },
+  "footer": "© 建創 KENSŌ Development Co., Ltd."
+}

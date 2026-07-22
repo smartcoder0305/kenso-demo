@@ -1,0 +1,27 @@
+brand: 建創 KENSŌ
+tagline: Tạo dựng khung xương của đô thị.
+heroLead: >-
+  Là nhà phát triển nối ký ức đô thị với tương lai, chúng tôi triển khai nhà ở, văn phòng và không
+  gian công cộng một cách nhất quán.
+ctaPrimary: Xem dự án
+ctaSecondary: Giới thiệu công ty
+nav:
+  projects: Dự án
+  about: Thông tin công ty
+  sustainability: Bền vững
+  contact: Liên hệ
+sectionProjects:
+  title: Dự án tiêu biểu
+  body: >-
+    Từ tái phát triển trung tâm đến tổ hợp ngoại ô. Chúng tôi đọc ngữ cảnh của đất và thiết kế không
+    gian được yêu thích lâu dài.
+sectionAbout:
+  title: Về chúng tôi
+  body: >-
+    Từ ngày thành lập, xây dựng và quy hoạch luôn đi cùng một đội ngũ. Chúng tôi cân bằng kinh
+    nghiệm hiện trường với góc nhìn quy hoạch đô thị để kiến tạo thành phố bền vững.
+sectionContact:
+  title: Tư vấn & yêu cầu tài liệu
+  body: Về bất động sản, hợp tác hoặc truyền thông, vui lòng liên hệ qua biểu mẫu bên dưới.
+  button: Đến biểu mẫu liên hệ
+footer: © 建創 KENSŌ Development Co., Ltd.

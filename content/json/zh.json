@@ -1,0 +1,27 @@
+{
+  "brand": "建創 KENSŌ",
+  "tagline": "构筑城市的骨架。",
+  "heroLead": "作为连接城市记忆与未来的开发商，我们统筹住宅、办公与公共空间的规划与建设。",
+  "ctaPrimary": "查看项目",
+  "ctaSecondary": "公司简介",
+  "nav": {
+    "projects": "项目",
+    "about": "公司信息",
+    "sustainability": "可持续发展",
+    "contact": "联系我们"
+  },
+  "sectionProjects": {
+    "title": "代表项目",
+    "body": "从市中心再开发到郊外综合体。我们解读土地语境，设计长久被喜爱的空间。"
+  },
+  "sectionAbout": {
+    "title": "关于我们",
+    "body": "自创立以来，建设与策划始终由同一团队推进。兼顾现场经验与城市规划视角，致力于可持续的城市建设。"
+  },
+  "sectionContact": {
+    "title": "咨询与资料索取",
+    "body": "关于物业、合作或媒体事宜，请通过下方联系我们。",
+    "button": "前往咨询表单"
+  },
+  "footer": "© 建創 KENSŌ Development Co., Ltd."
+}
