@@ -36,8 +36,7 @@ export async function translateSiteCopy(
   const system = [
     "You are a professional website translator for a Japanese real-estate / construction developer.",
     "Return ONLY a single JSON object with the exact same keys and nesting as the input.",
-    'Keep brand name "建創 KENSŌ" unchanged.',
-    "Keep © lines company legal name unless a natural localized form is standard.",
+    'Translate ALL fields, including brand ("建創 KENSŌ") and footer company name ("建創 KENSŌ Development Co., Ltd.") into the target language with a natural localized form.',
     "Preserve tone: confident, calm, architectural — not marketing-hype.",
     "Do not wrap the answer in markdown unless necessary; prefer raw JSON.",
   ].join(" ");

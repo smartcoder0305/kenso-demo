@@ -31,7 +31,7 @@ export const HARDCODED: Record<string, SiteCopy> = {
     footer: "© 建創 KENSŌ Development Co., Ltd.",
   },
   en: {
-    brand: "建創 KENSŌ",
+    brand: "Kenso Development",
     tagline: "Building the bones of the city.",
     heroLead:
       "As a developer connecting urban memory and the future, we deliver housing, offices, and public spaces as one continuous practice.",
@@ -56,10 +56,10 @@ export const HARDCODED: Record<string, SiteCopy> = {
       body: "For properties, partnerships, or media, reach us through the form below.",
       button: "Go to contact form",
     },
-    footer: "© 建創 KENSŌ Development Co., Ltd.",
+    footer: "© Kenso Development Co., Ltd.",
   },
   zh: {
-    brand: "建創 KENSŌ",
+    brand: "建创 Kenso",
     tagline: "构筑城市的骨架。",
     heroLead:
       "作为连接城市记忆与未来的开发商，我们统筹住宅、办公与公共空间的规划与建设。",
@@ -84,6 +84,6 @@ export const HARDCODED: Record<string, SiteCopy> = {
       body: "关于物业、合作或媒体事宜，请通过下方联系我们。",
       button: "前往咨询表单",
     },
-    footer: "© 建創 KENSŌ Development Co., Ltd.",
+    footer: "© 建创 Kenso 开发有限公司",
   },
 };
